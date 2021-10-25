@@ -7,7 +7,7 @@ header{
     font-family: 'Raleway', sans-serif;
     font-family: 'Roboto', sans-serif;
     /*background-image: linear-gradient(to right, #696969 0%, #e8e9e5 0%, #e0e0db 0%, #c0c0b8 30%, #cac9c2 64%, #9e9e9a 100%);*/
-    background: url(Imagenes/portada.jpg);
+    background: url(/Imagenes/portada.jpg);
     text-align: center;
     display: flex;
     flex-direction: column;
